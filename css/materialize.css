@@ -3,6 +3,25 @@
  * Copyright 2014-2015 Materialize
  * MIT License (https://raw.githubusercontent.com/Dogfalo/materialize/master/LICENSE)
  */
+body {
+  font-family: 'Raleway', sans-serif;
+}
+
+p {
+  font-size: 18px;
+}
+
+.quote {
+  margin-top:-20px !important;
+  font-size: 14px !important;
+  font-style:italic;
+
+}
+
+.sub-practice-text {
+    font-size: 16px !important;
+}
+
 .materialize-red {
   background-color: #e51c23 !important;
 }
