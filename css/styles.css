@@ -14,7 +14,7 @@ body {
   src: url(https://ariingber.github.io/ilana/fonts/MaterialIcons-Regular.eot); /* For IE6-8 */
   src: local('Material Icons'),
        local('MaterialIcons-Regular'),
-       url(https://ariingber.github.io/ilana/fonts/MaterialIcons-Regular.woff2) format('woff2'),
-       url(https://ariingber.github.io/ilana/fonts/MaterialIcons-Regular.woff) format('woff'),
-       url(https://ariingber.github.io/ilana/fonts/MaterialIcons-Regular.ttf) format('truetype');
+       url(https://github.com/ariingber/ilana/blob/master/fonts/MaterialIcons-Regular.woff2) format('woff2'),
+       url(https://github.com/ariingber/ilana/blob/master/fonts/MaterialIcons-Regular.woff) format('woff'),
+       url(https://github.com/ariingber/ilana/blob/master/fonts/MaterialIcons-Regular.ttf) format('truetype');
 }
