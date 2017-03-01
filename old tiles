@@ -1,0 +1,136 @@
+<div class="row center">
+  <div class="col s12 m4 l4 center">
+    <div class="card teal lighten-2">
+      <div class="card-image waves-effect waves-block waves-light">
+        <center>
+          <img style="max-width:80px" class="activator" src="images/pink.jpg">
+        </center>
+        <div class="activator">
+          <p class="activator practice-text">Self Love and Compassion</p>
+          <!-- <p class="activator quote" >“The worst enemy to creativity is self doubt” <br>– Slyvia Plath</p> -->
+          <a class="waves-effect waves-light btn brown activator" style="margin-bottom:25px;">Learn More</a>
+          <br>
+        </div>
+      </div>
+      <div class="card-reveal">
+        <span class="card-title grey-text text-darken-4"><i class="material-icons right">close</i></span>
+        <br>
+        <p style="text-align:left; font-size:16px;">
+          The Happy HeART studio infuses lessons on positive self-talk and mindfulness to awaken students’ access to their creativity.
+          <br><br>Every art class opens and closes with guided meditations to help students quiet self-limiting beliefs.
+          <br><br>At the Happy HeART studio we actively practice self-love, self-care, and positive self-talk to cheer ourselves on. We are reminded to replace our inner critic with our inner coach.
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="col s12 m4 l4 center">
+    <div class="card" style="background-color:#86AC41">
+      <div class="card-image waves-effect waves-block waves-light">
+        <img class="activator" src="el1.png">
+        <div class="activator">
+          <p class="activator practice-text">Self Love and Compassion</p>
+          <!-- <p class="activator quote" >“The worst enemy to creativity is self doubt” <br>– Slyvia Plath</p> -->
+          <a class="waves-effect waves-light btn brown activator" style="margin-bottom:25px;">Learn More</a>
+          <br>
+        </div>
+      </div>
+      <div class="card-reveal">
+        <span class="card-title grey-text text-darken-4"><i class="material-icons right">close</i></span>
+        <br>
+        <p style="text-align:left; font-size:16px;">
+          The Happy HeART studio infuses lessons on positive self-talk and mindfulness to awaken students’ access to their creativity.
+          <br><br>Every art class opens and closes with guided meditations to help students quiet self-limiting beliefs.
+          <br><br>At the Happy HeART studio we actively practice self-love, self-care, and positive self-talk to cheer ourselves on. We are reminded to replace our inner critic with our inner coach.
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="col s12 m4 l4 center">
+    <div class="card" style="background-color:#86AC41">
+      <div class="card-image waves-effect waves-block waves-light">
+        <img class="activator" src="el1.png">
+        <div class="activator">
+          <p class="activator practice-text">Self Love and Compassion</p>
+          <!-- <p class="activator quote" >“The worst enemy to creativity is self doubt” <br>– Slyvia Plath</p> -->
+          <a class="waves-effect waves-light btn brown activator" style="margin-bottom:25px;">Learn More</a>
+          <br>
+        </div>
+      </div>
+      <div class="card-reveal">
+        <span class="card-title grey-text text-darken-4"><i class="material-icons right">close</i></span>
+        <br>
+        <p style="text-align:left; font-size:16px;">
+          The Happy HeART studio infuses lessons on positive self-talk and mindfulness to awaken students’ access to their creativity.
+          <br><br>Every art class opens and closes with guided meditations to help students quiet self-limiting beliefs.
+          <br><br>At the Happy HeART studio we actively practice self-love, self-care, and positive self-talk to cheer ourselves on. We are reminded to replace our inner critic with our inner coach.
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="col s12 m4 l4 center">
+    <div class="card" style="background-color:#86AC41">
+      <div class="card-image waves-effect waves-block waves-light">
+        <img class="activator" src="el1.png">
+        <div class="activator">
+          <p class="activator practice-text">Self Love and Compassion</p>
+          <!-- <p class="activator quote" >“The worst enemy to creativity is self doubt” <br>– Slyvia Plath</p> -->
+          <a class="waves-effect waves-light btn brown activator" style="margin-bottom:25px;">Learn More</a>
+          <br>
+        </div>
+      </div>
+      <div class="card-reveal">
+        <span class="card-title grey-text text-darken-4"><i class="material-icons right">close</i></span>
+        <br>
+        <p style="text-align:left; font-size:16px;">
+          The Happy HeART studio infuses lessons on positive self-talk and mindfulness to awaken students’ access to their creativity.
+          <br><br>Every art class opens and closes with guided meditations to help students quiet self-limiting beliefs.
+          <br><br>At the Happy HeART studio we actively practice self-love, self-care, and positive self-talk to cheer ourselves on. We are reminded to replace our inner critic with our inner coach.
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="col s12 m4 l4 center">
+    <div class="card" style="background-color:#86AC41">
+      <div class="card-image waves-effect waves-block waves-light">
+        <img class="activator" src="el1.png">
+        <div class="activator">
+          <p class="activator practice-text">Self Love and Compassion</p>
+          <!-- <p class="activator quote" >“The worst enemy to creativity is self doubt” <br>– Slyvia Plath</p> -->
+          <a class="waves-effect waves-light btn brown activator" style="margin-bottom:25px;">Learn More</a>
+          <br>
+        </div>
+      </div>
+      <div class="card-reveal">
+        <span class="card-title grey-text text-darken-4"><i class="material-icons right">close</i></span>
+        <br>
+        <p style="text-align:left; font-size:16px;">
+          The Happy HeART studio infuses lessons on positive self-talk and mindfulness to awaken students’ access to their creativity.
+          <br><br>Every art class opens and closes with guided meditations to help students quiet self-limiting beliefs.
+          <br><br>At the Happy HeART studio we actively practice self-love, self-care, and positive self-talk to cheer ourselves on. We are reminded to replace our inner critic with our inner coach.
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="col s12 m4 l4 center">
+    <div class="card" style="background-color:#86AC41">
+      <div class="card-image waves-effect waves-block waves-light">
+        <img class="activator" src="el1.png">
+        <div class="activator">
+          <p class="activator practice-text">Self Love and Compassion</p>
+          <!-- <p class="activator quote" >“The worst enemy to creativity is self doubt” <br>– Slyvia Plath</p> -->
+          <a class="waves-effect waves-light btn brown activator" style="margin-bottom:25px;">Learn More</a>
+          <br>
+        </div>
+      </div>
+      <div class="card-reveal">
+        <span class="card-title grey-text text-darken-4"><i class="material-icons right">close</i></span>
+        <br>
+        <p style="text-align:left; font-size:16px;">
+          The Happy HeART studio infuses lessons on positive self-talk and mindfulness to awaken students’ access to their creativity.
+          <br><br>Every art class opens and closes with guided meditations to help students quiet self-limiting beliefs.
+          <br><br>At the Happy HeART studio we actively practice self-love, self-care, and positive self-talk to cheer ourselves on. We are reminded to replace our inner critic with our inner coach.
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
