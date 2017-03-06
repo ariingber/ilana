@@ -17,9 +17,9 @@
 </head>
 <body>
   <ul id="dropdown1" class="dropdown-content">
-    <li><a style="font-size:30px;">Our Practice</a></li>
-    <li><a href="#!" style="font-size:30px;">Our Teacher</a></li>
-    <li><a href="#!" style="font-size:30px;">Our Studio</a></li>
+    <li><a href="#practice" class style="font-size:30px;">Our Practice</a></li>
+    <li><a href="#teacher" style="font-size:30px;">Our Teacher</a></li>
+    <li><a href="#studio" style="font-size:30px;">Our Studio</a></li>
   </ul>
   <nav style="background:#0d47a1;">
    <div class="nav-wrapper">
@@ -58,11 +58,11 @@
 
 <div class="container">
 
-  <div class="row center" id="practice" class="section scrollspy">
+  <div class="row center" class="section scrollspy">
     <h1 class="hide-on-small-only" style="font-size:50px;">At The Happy HeART studio we are not simply concerned with making beautiful art, we are also concerned with developing a beautiful heart.</h1>
     <h1 class="hide-on-med-and-up" style="font-size:35px;">At The Happy HeART studio we are not simply concerned with making beautiful art, we are also concerned with developing a beautiful heart.</h1>
     <div class="col s12 m6 l6">
-      <img src="images/happy.JPG" style="max-width:450px; width:100%;" alt="">
+      <img id="practice" src="images/happy.JPG" style="max-width:450px; width:100%;" alt="">
     </div>
     <div class="col s12 m6 l6">
       <p style="text-align:left; font-size:30px;">
@@ -352,8 +352,9 @@ In 2016 she traveled to Fiji to receive her 200-hour teacher training with YogaW
   <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
   <script type="text/javascript" src="js/materialize.min.js"></script>
   <script> $(document).ready(function(){
-      $('.slider').slider({full_width: true});
+      // $('.slider').slider({full_width: true});
       $(".dropdown-button").dropdown();
+      $('.scrollspy').scrollSpy();
     });</script>
 </body>
 </html>
