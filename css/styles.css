@@ -17,3 +17,21 @@ nav {
        url('MaterialIcons-Regular.woff') format('woff'), /* Pretty Modern Browsers */
        url('MaterialIcons-Regular.ttf')  format('truetype'), /* Safari, Android, iOS */
 }
+
+#wall {
+  display:flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-flow: row wrap;
+}
+
+.content_container {
+  width:600px;
+  display:flex;
+  align-items:center;
+  justify-content: center;
+}
+
+.content {
+  border: solid black 1px;
+}
