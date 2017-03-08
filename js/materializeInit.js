@@ -3,4 +3,5 @@
   $(".dropdown-button").dropdown();
   $('.scrollspy').scrollSpy();
   $('.modal').modal();
+  $('.materialboxed').materialbox();
 }());
