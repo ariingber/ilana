@@ -6,8 +6,14 @@ body {
 
 nav {
   /*background: url(../images/bluePaint.png);*/
-  height:100px;
+  height:140px;
 }
+button {
+  font-size: 20px;
+  margin-right: 20px;
+  background-color: #C2DFFF;
+}
+
 @font-face {
   font-family: 'Material Icons';
   font-style: normal;
