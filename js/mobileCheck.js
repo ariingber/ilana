@@ -2,7 +2,6 @@
   // anything smaller than 529 should change
     $('#mobileCard').hide();
     var windowWidth = $(window).width();
-
   // check one when first open window
 
   if ( windowWidth < 529 ) {
