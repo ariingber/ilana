@@ -5,20 +5,21 @@
   // check one when first open window
 
   if ( windowWidth < 529 ) {
-    $('#main_content').remove();
+    $('#main_content').hide();
     $('#mobileCard').show();
   }
 
   // Looks for window resize function
   $( window ).resize(function() {
     var windowWidth = $(window).width();
-    if (windowWidth < 529) {
+    if (windowWidth < 600) {
       $('#main_content').hide();
       $('#mobileCard').show();
-    } else {
+    } else if (windowWidth >= 600) {
       $('#mobileCard').hide();
       $('#main_content').show();
     }
+
   });
 
 
