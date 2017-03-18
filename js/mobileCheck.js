@@ -4,7 +4,7 @@
     var windowWidth = $(window).width();
   // check one when first open window
 
-  if ( windowWidth < 529 ) {
+  if ( windowWidth < 600 ) {
     $('#main_content').hide();
     $('#mobileCard').show();
   }
