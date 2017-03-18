@@ -11,14 +11,14 @@
     <link type="text/css" rel="stylesheet" href="css/material-icons.css"  media="screen,projection"/>
 
    <!--Let browser know website is optimized for mobile-->
-   <meta name="viewport" content="maximum-scale=1">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <meta charset="UTF-8">
   <title>Happy HeART Studio</title>
 </head>
 <body>
 
 <div id="all_content">
-  <div id="main_content">
+  <div id="main_content" class="hide-on-small-only">
     <ul id="dropdown1" class="dropdown-content">
       <li><a href="#practice" class style="font-size:30px;">Our Practice</a></li>
       <li><a href="#teacher" style="font-size:30px;">Our Teacher</a></li>
@@ -360,7 +360,7 @@
 
 <!-- ######################################################################################################## -->
 <!-- MOBILE VIEW MOBILE VIEW MOBILE VIEW MOBILE VIEW MOBILE VIEW MOBILE VIEW MOBILE VIEW MOBILE VIEW -->
-<div id="mobileCard">
+<div id="mobileCard" class="hide-on-med-and-up">
   <div style="padding:10px; text-align:center;">
     <ul style="text-align:left;">
      <li><a class="dropdown-button black-text" href="#!" data-activates="dropdownMobile" ><i class="fa fa-bars medium" aria-hidden="true"></i></a></li>
@@ -509,7 +509,7 @@
 
   <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
   <script type="text/javascript" src="js/materialize.min.js"></script>
-  <script type="text/javascript" src="js/mobileCheck.js"></script>
+  <!-- <script type="text/javascript" src="js/mobileCheck.js"></script> -->
   <script type="text/javascript" src="js/materializeInit.js"></script>
 </body>
 </html>
